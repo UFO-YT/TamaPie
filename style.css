@@ -1,0 +1,30 @@
+#header1 {
+    background-color:rgb(165, 133, 85);
+}
+#footer {
+    background-color: coral;
+}
+#box1 {
+background-color: rgb(71, 70, 70);
+color:rgb(255, 255, 255)
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
